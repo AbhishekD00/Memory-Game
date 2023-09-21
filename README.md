@@ -1,6 +1,6 @@
 # Memory matching game
 
-## <b> [Click here to Play the GAME!!](https://abhishekd00.github.io/Memory-Game/)
+## <b> [Click here to Play the GAME!!]
 
 
 This project is made using HTML,CSS &amp; JavaScript.
